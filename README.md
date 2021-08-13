@@ -4,5 +4,5 @@ Simple BMI calculator created using Flutter android, in which I got to learna ab
 
 ### Preview
 
-![preview](https://github.com/lala-lala-lori/BMICALC/blob/master/preview.jpeg)
+![preview](https://github.com/lala-lala-lori/BMICALC/blob/master/preview.jpeg 400x500)
 
